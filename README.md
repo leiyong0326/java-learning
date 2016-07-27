@@ -1,3 +1,4 @@
+#本项目将于2016年7月31日正式开始编写
 # java-learning项目说明
 
 本项目为java学习入门示例代码<br/>
@@ -13,11 +14,13 @@
 本项目将使用maven作为jar包管理,框架级项目需要有maven基础<br/>
 本项目spring,struts,hibernate,mybatis,springmvc都将采用目前较新版本.<br/>
 后期会添加dubbo项目
+
 # 项目预期知识点介绍
-java基础及调试
-前端基础及调试
-设计模式入门代码(java版)
-一些简单java代码示例
-SSH(struts2+spring+hibernate)项目
-SSM(springMVC+spring+mybatis)项目
-一些其它框架项目
+1.java基础及调试<br/>
+2.前端基础及调试<br/>
+3.设计模式入门代码(java版)<br/>
+4.一些简单java代码示例<br/>
+5.SSH(struts2+spring+hibernate)项目<br/>
+6.SSM(springMVC+spring+mybatis)项目<br/>
+7.Dubbo项目分布式
+8.shiro安全管理
